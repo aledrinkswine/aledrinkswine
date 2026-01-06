@@ -1,49 +1,41 @@
 <h1 align="center">
-Hi, I'm Bouaskaoun Mohammed!
+Hola, Soy Aledrinkswine!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
-</p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+		<a href="https://github.com/aledrinkswine">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=380&lines=Estudiante+Ing+Software;Desarrollador+Full+Stack;Freelancer;Investigador/Aprendiz+Activo" />
+		</a>
 </p>
 
 <hr>
 
+## 💼 Sobre mí
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 Actualmente desarrollador fullstack Autodidacta.
+
+🎓 Tengo una licenciatura técnica en desarrollo de software por la universidad FESC.
+
+📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial.
+
+🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
+
+🤔 Estoy abierto a: <b>prácticas</b> o una nueva <b>oportunidad laboral. Este es <a href="https://drive.google.com/uc?export=download&id=1uZWEywwQ7dJcNo7rYyLhVkcgcv1V5fiN">mi portfolio</a>.
+
+📫 Contáctame: <a href="mailto:alejotvkz@gmail.com">alejotvkz@gmail.com</a>
+	
 </pre>
 <hr>
 
 
-## 💼 Sobre mí
-- 🎓 Actualmente desarrollador fullstak React/NodeJS.
-- 💻 Estoy enfocado en tecnologías web, especialmente **JavaScript**, **React**, y **Node.js**.
-- 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
-- 📫 Contáctame: albertus1291@[gmail](mailto:albertus1291@gmail.com).com | [LinkedIn](https://www.linkedin.com/in/albert-castro-albacete-38204615a/)
-- 📁 [Portafolio](https://albertcastro.es/)
-
----
-
 ## 🔧 Tecnologías y herramientas
+
+Frontend: React, JavaScript, HTML5, CSS3, SaSS, Tailwind 
+Backend: NextJs, Php, Java, PostgreSQL, MySQL y Azure 
+
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
@@ -53,7 +45,9 @@ Hi, I'm Bouaskaoun Mohammed!
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-    </div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+
   </div>
 
   <div>
@@ -62,7 +56,9 @@ Hi, I'm Bouaskaoun Mohammed!
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-    </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+
   </div>
 
   <div>
@@ -70,8 +66,11 @@ Hi, I'm Bouaskaoun Mohammed!
     <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />      
-    </div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" /> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+
+
+
   </div>
 
   <div>
@@ -88,48 +87,31 @@ Hi, I'm Bouaskaoun Mohammed!
 ---
 
 ## 📌 Proyectos destacados
-### [✂️ Craft it!](https://craftit.vercel.app)
-- 🟢 Acortador de URLs! Crea tu propio endpoint en *Craft it!* y comparte tus links de una fomra simple y segura!
-- 🟢 **Tecnologías:** NodeJS, Express, Supabase, React, CSS.
-- 
-### [👨‍💻 JS Quiz](https://java-script-quiz-kappa.vercel.app/)
-- 🟡 Questionario de Javascript, pon a prueba tus conocimientos sobre JS y demuestra lo que sabes!
-- 🟡 **Tecnologías:** TS, React, Mui.
-  
-### [🔤 Traductor-AI](https://ai-translate-project.vercel.app)
-- ⚪ Traductor inteligente, detecta el idioma introducido y lo traduce a cualquier idioma utilizando la API de OpenAi.
-- ⚪ **Tecnologías:** React, TypeScript y OpenAi-API.
 
-### [🏍 Ichiban-Clone](https://ichiban-clone.netlify.app/)
-- 🔴 Clon del efecto scroll de la pagina Ichiban-Bike. !Animacion super dinamica generada con frames!
-- 🔴 **Tecnologías:** CSS, HTML y JavaScript
+### 🔤 Traductor-IA
+- ⚪ Web App con API de OpenAI.
+- ⚪ Traductor inteligente que detecta automáticamente el idioma de entrada y genera la traducción de forma automática.
+- ⚪ **Tecnologías:** React, JavaScript / TypeScript, OpenAI API.
 
-### [💬 Nodejs-Chat](https://chat-node-js-2u1m.onrender.com/)
-- 🟠 Chat en tiempo real con autolimpieza cada 15 minutos. ¡Abre múltiples pestañas y pruébalo en acción!
-- 🟠 **Tecnologías:** NodeJS, Express y MySQL.
+### ▶️ YouTube Clone
+- 🔴 Web App desarrollada con React.
+- 🔴 Aplicación que simula las funcionalidades básicas de YouTube, permitiendo buscar, explorar y reproducir videos en tiempo real mediante el consumo de la API de YouTube.
+- 🔴 **Tecnologías:** React, JavaScript, YouTube Data API.
 
-### [⌨️ A Typing Game](https://atypinggame.netlify.app/)
-- 🟣 Un juego de mecanografía con estadísticas en tiempo real. Pon a prueba tus habilidades mientras mides tu velocidad y precisión. ¡Ideal para mejorar tu escritura al teclado! 
-- 🟣 **Tecnologías:** React.
+### 👥 Gestión de Empleados
+- 🟢 Aplicación web desarrollada con Spring Boot.
+- 🟢 Sistema para la administración de empleados que permite crear, listar, editar y eliminar registros, implementado bajo el patrón MVC.
+- 🟢 **Tecnologías:** Java, Spring Boot, Spring MVC, HTML, CSS.
 
-### [👀 Toggle Comments Visibility](https://marketplace.visualstudio.com/items?itemName=BeruzDev.toggle-comments-visibility)
-- 🔵 Extensión para Visual Studio Code que permite alternar la visibilidad de los comentarios en tu código con un atajo personalizado.
-- 🔵 **Tecnologías:** TypeScript.
+### 🏨 Hotel Java Web
+- 🟣 Sistema de Gestión Hotelera en Java.
+- 🟣 Aplicación web para la gestión básica de un hotel, permitiendo administrar huéspedes, habitaciones y reservas utilizando JSP y Servlets bajo el patrón MVC.
+- 🟣 **Tecnologías:** Java, JSP, Servlets, MVC, MySQL.
+
+### 🛒 Sistema de Ventas
+- 🟠 Web App desarrollada con PHP y MySQL.
+- 🟠 Aplicación para la gestión de ventas e inventario que permite administrar pro
+
 
 
 ---
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/albert-castro-albacete-38204615a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="bertus#9656" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/bertusroll/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="www.albertus1291@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
