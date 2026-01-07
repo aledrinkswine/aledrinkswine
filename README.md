@@ -34,7 +34,7 @@ Hola, Soy Aledrinkswine!
 ## 🔧 Tecnologías y herramientas
 
 Frontend: React, JavaScript, HTML5, CSS3, SaSS, Tailwind 
-Backend: NextJs, Php, Java, PostgreSQL, MySQL y Azure 
+Backend: NextJs, Php, Java, PostgreSQL, MySQL, Azure etc.. 
 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
