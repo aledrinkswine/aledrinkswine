@@ -23,7 +23,7 @@ Hey, I am Aledrinkswine!
 
 🌐 I enjoy exploring and experimenting with new technologies to improve my skills.
 
-🤔 I’m open to: <b>internships</b> or a new <b>job oportunity. Here is <a href="https://drive.google.com/uc?export=download&id=1uZWEywwQ7dJcNo7rYyLhVkcgcv1V5fiN">my portfolio</a>.
+🤔 I’m open to: <b>internships</b> or a new <b>job oportunity. Here is my <a href="https://drive.google.com/uc?export=download&id=1uZWEywwQ7dJcNo7rYyLhVkcgcv1V5fiN">Curriculum</a>.
 
 📫 Contact me: <a href="mailto:alejotvkz@gmail.com">alejotvkz@gmail.com</a>
 	
