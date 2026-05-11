@@ -13,19 +13,19 @@ Hey, I am Aledrinkswine!
 
 <hr>
 
-## 💼 About me
+## About me
 <pre>
-💻 Currently a self-taught full-stack developer.
+Currently a self-taught full-stack developer.
 
-🎓 I hold a technical degree in software support as well as multiple certifications related to software development.
+I hold a technical degree in software support as well as multiple certifications related to software development.
 
-📝 I am currently pursuing a bachelor’s degree in software engineering and have a strong interest in data science and artificial intelligence.
+I am currently pursuing a bachelor’s degree in software engineering and have a strong interest in data science and artificial intelligence.
 
-🌐 I enjoy exploring and experimenting with new technologies to improve my skills.
+I enjoy exploring and experimenting with new technologies to improve my skills.
 
-🤔 I’m open to: <b>internships</b> or a new <b>job oportunity. Here is my <a href="https://drive.google.com/uc?export=download&id=1uZWEywwQ7dJcNo7rYyLhVkcgcv1V5fiN">Curriculum</a>.
+I’m open to: <b>internships</b> or a new <b>job oportunity. Here is my <a href="https://drive.google.com/uc?export=download&id=1uZWEywwQ7dJcNo7rYyLhVkcgcv1V5fiN">Curriculum</a>.
 
-📫 Contact me: <a href="mailto:alejotvkz@gmail.com">alejotvkz@gmail.com</a>
+Contact me: <a href="mailto:alejotvkz@gmail.com">alejotvkz@gmail.com</a>
 	
 </pre>
 <hr>
@@ -103,31 +103,31 @@ Backend: NextJs, Php, Java, PostgreSQL, MySQL, Azure, C, Python, Node.JS, Typesc
 
 ---
 
-## 📌 Featured Projects.
+## Featured Projects.
 
-### 🔤 AI Translator
-- ⚪ Web app built with the OpenAI API.
-- ⚪ Smart translator that automatically detects the input language and generates the translation.
-- ⚪ **Technologies:** React, JavaScript / TypeScript, OpenAI API.
+### AI Translator
+- Web app built with the OpenAI API.
+- Smart translator that automatically detects the input language and generates the translation.
+- **Technologies:** React, JavaScript / TypeScript, OpenAI API.
 
-### ▶️ YouTube Clone
-- 🔴 Web app developed with React.
-- 🔴 Application that simulates YouTube’s basic features, allowing users to search for, browse, and play videos in real time by utilizing the YouTube API.
-- 🔴 **Technologies:** React, JavaScript, YouTube Data API.
+### YouTube Clone
+- Web app developed with React.
+- Application that simulates YouTube’s basic features, allowing users to search for, browse, and play videos in real time by utilizing the YouTube API.
+- **Technologies:** React, JavaScript, YouTube Data API.
 
-### 👥 Employee Management
-- 🟢 Web application developed with Spring Boot.
-- 🟢 Employee management system that allows creating, listing, editing, and deleting records, implemented using the MVC pattern.
-- 🟢 **Technologies:** Java, Spring Boot, Spring MVC, HTML, CSS.
+### Employee Management
+- Web application developed with Spring Boot.
+- Employee management system that allows creating, listing, editing, and deleting records, implemented using the MVC pattern.
+- **Technologies:** Java, Spring Boot, Spring MVC, HTML, CSS.
 
-### 🏨 Java Web Hotel
-- 🟣 Hotel Management System in Java.
-- 🟣 Web application for basic hotel management, allowing for the administration of guests, rooms, and reservations using JSP and Servlets under the MVC pattern.
-- 🟣 **Technologies:** Java, JSP, Servlets, MVC, MySQL.
+### Java Web Hotel
+- Hotel Management System in Java.
+- Web application for basic hotel management, allowing for the administration of guests, rooms, and reservations using JSP and Servlets under the MVC pattern.
+- **Technologies:** Java, JSP, Servlets, MVC, MySQL.
 
-### 🛒 Sales System
-- 🟠 Web app developed with PHP and MySQL.
-- 🟠 Application for sales and inventory management that allows you to manage pro
+### Sales System
+- Web app developed with PHP and MySQL.
+- Application for sales and inventory management that allows you to manage pro
 
 
 
