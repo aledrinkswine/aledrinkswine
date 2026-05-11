@@ -36,7 +36,7 @@ Hey, I am Aledrinkswine!
 	
 Frontend: React, JavaScript, HTML5, CSS3, SaSS, Tailwind 
 	
-Backend: NextJs, Php, Java, PostgreSQL, MySQL, Azure, C, Python, Node.JS, Typescript, .NET, Express.
+Backend: NextJs, Php, Java, PostgreSQL, MySQL, Azure, C, Python, Node.JS, Typescript, .NET, Express, SpringBoot.
 
 </pre>
 
@@ -68,7 +68,7 @@ Backend: NextJs, Php, Java, PostgreSQL, MySQL, Azure, C, Python, Node.JS, Typesc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
 
 
 
